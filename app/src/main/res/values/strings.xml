@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="radius">Radius</string>
+    <string name="no_station_found_within_radius">No station found within radius</string>
+</resources>
